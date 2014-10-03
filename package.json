@@ -1,0 +1,15 @@
+{
+  "name": "cloudfeeds",
+  "version": "0.0.1",
+  "description": "A simple client for streaming live Cloud Feeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Gallardo <justin.gallardo@gmail.com>",
+  "license": "Apachev2",
+  "dependencies": {
+    "feedparser": "~0.19.2",
+    "request": "~2.44.0"
+  }
+}
